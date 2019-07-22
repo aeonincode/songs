@@ -1,5 +1,4 @@
 import { combineReducers } from 'redux';
-import SongList from '../components/SongList';
 
 const songsReducer = () => {
     return [
